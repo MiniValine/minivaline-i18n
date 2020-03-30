@@ -1,5 +1,5 @@
 {
-	"nick": "nom",
+	"nick": "Nom",
 	"mail": "Courrier",
 	"link": "Site Internet (optionnel)",
 	"noCommentYet": "Pas encore de commentaire.",
@@ -12,7 +12,7 @@
 	"continue": "Continuer",
 	"more": "Charger plus...",
 	"preview": "Aperçu",
-	"emoji": "emo grade",
+	"emoji": "Emoji",
 	"seconds": "il y a quelques instants",
 	"minutes": "il y a quelques minutes",
 	"hours": "il y a des heures",
