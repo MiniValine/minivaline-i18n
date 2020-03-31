@@ -15,8 +15,8 @@
 	"emoji": "Emoji",
 	"seconds": "saniyeler önce",
 	"minutes": "dakika önce",
-	"hours": "hours ago",
-	"days": "days ago",
-	"now": "just now",
-	"inputTips": "Please check your mail address and website link and try again."
+	"hours": "saatler önce",
+	"days": "günler önce",
+	"now": "şu anda",
+	"inputTips": "Lütfen posta adresinizi ve web sitesi bağlantınızı kontrol edip tekrar deneyin."
 }
