@@ -1,9 +1,9 @@
 {
 	"nick": "名前",
-	"mail": "郵便物",
-	"link": "ウェブサイト(オプション)",
+	"mail": "郵便",
+	"link": "ウェブサイト(任意)",
 	"noCommentYet": "まだコメントはありません。",
-	"submit": "参加する",
+	"submit": "投稿",
 	"reply": "応答",
 	"cancelReply": "返信をキャンセル",
 	"commentCount": "{} コメントはこちら",
