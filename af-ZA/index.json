@@ -1,6 +1,6 @@
 {
-	"nick": "Igama",
-	"mail": "Imeyili",
+	"nick": "Naam",
+	"mail": "Pos",
 	"link": "Iwebhusayithi (uyazikhethela)",
 	"noCommentYet": "Akukho okuphawuliwe okwamanje.",
 	"submit": "Thumela",
@@ -12,10 +12,10 @@
 	"continue": "Qhubeka",
 	"more": "Layisha Okuningi...",
 	"preview": "Ukubuka kuqala",
-	"emoji": "Emoji",
+	"emoji": "Emoticon",
 	"seconds": "imizuzwana edlule",
-	"minutes": "imizuzu edlule",
-	"hours": "amahora edlule",
+	"minutes": "minute gelede",
+	"hours": "ure gelede",
 	"days": "ezinsukwini ezedlule",
 	"now": "khona manje",
 	"inputTips": "Sicela ubheke ikheli lakho le-imeyili nesixhumanisi sewebhusayithi bese uzama futhi."
