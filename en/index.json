@@ -18,5 +18,7 @@
 	"hours": "hours ago",
 	"days": "days ago",
 	"now": "just now",
-	"inputTips": "Please check your mail address and website link and try again."
+	"inputTips": "Please check your mail address and website link and try again.",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "OK"
 }
