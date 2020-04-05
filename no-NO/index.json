@@ -18,5 +18,7 @@
 	"hours": "timer siden",
 	"days": "dager siden",
 	"now": "akkurat nå",
-	"inputTips": "Vennligst sjekk e-postadressen og nettsiden din og prøv igjen."
+	"inputTips": "Vennligst sjekk e-postadressen og nettsiden din og prøv igjen.",
+	"wait": "Vent, kommentaren blir sendt inn",
+	"ok": "OK"
 }
