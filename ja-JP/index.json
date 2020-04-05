@@ -18,5 +18,7 @@
 	"hours": "時間前",
 	"days": "日前",
 	"now": "ちょうど今",
-	"inputTips": "メールアドレスとウェブサイトのリンクを確認して、もう一度お試しください。"
+	"inputTips": "メールアドレスとウェブサイトのリンクを確認して、もう一度お試しください。",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "OK"
 }
