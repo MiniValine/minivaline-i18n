@@ -18,5 +18,7 @@
 	"hours": "vor Stunden",
 	"days": "vor Tagen",
 	"now": "gerade jetzt",
-	"inputTips": "Bitte überprüfen Sie Ihre E-Mail-Adresse und Ihren Website-Link und versuchen Sie es erneut."
+	"inputTips": "Bitte überprüfen Sie Ihre E-Mail-Adresse und Ihren Website-Link und versuchen Sie es erneut.",
+	"wait": "Warte, der Kommentar wird gesendet",
+	"ok": "OK"
 }
