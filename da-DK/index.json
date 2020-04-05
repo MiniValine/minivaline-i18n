@@ -18,5 +18,7 @@
 	"hours": "timer siden",
 	"days": "dage siden",
 	"now": "lige nu",
-	"inputTips": "Kontroller din mailadresse og dit link på webstedet, og prøv igen."
+	"inputTips": "Kontroller din mailadresse og dit link på webstedet, og prøv igen.",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "OK"
 }

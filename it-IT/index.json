@@ -18,5 +18,7 @@
 	"hours": "ore fa",
 	"days": "giorni fa",
 	"now": "proprio adesso",
-	"inputTips": "Controlla il tuo indirizzo email e il link al sito web e riprova."
+	"inputTips": "Controlla il tuo indirizzo email e il link al sito web e riprova.",
+	"wait": "Aspetta, il commento è in corso di invio",
+	"ok": "OK"
 }

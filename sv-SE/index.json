@@ -18,5 +18,7 @@
 	"hours": "timmar sedan",
 	"days": "dagar sedan",
 	"now": "just nu",
-	"inputTips": "Kontrollera din e-postadress och webbplatslänk och försök igen."
+	"inputTips": "Kontrollera din e-postadress och webbplatslänk och försök igen.",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "OK"
 }

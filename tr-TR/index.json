@@ -18,5 +18,7 @@
 	"hours": "saatler önce",
 	"days": "günler önce",
 	"now": "şu anda",
-	"inputTips": "Lütfen posta adresinizi ve web sitesi bağlantınızı kontrol edip tekrar deneyin."
+	"inputTips": "Lütfen posta adresinizi ve web sitesi bağlantınızı kontrol edip tekrar deneyin.",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "OK"
 }

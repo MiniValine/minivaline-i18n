@@ -18,5 +18,7 @@
 	"hours": "몇 시간 전",
 	"days": "며칠 전에",
 	"now": "방금",
-	"inputTips": "메일 주소와 웹 사이트 링크를 확인한 후 다시 시도하십시오."
+	"inputTips": "메일 주소와 웹 사이트 링크를 확인한 후 다시 시도하십시오.",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "확인"
 }

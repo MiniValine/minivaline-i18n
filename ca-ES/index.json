@@ -18,5 +18,7 @@
 	"hours": "fa hores",
 	"days": "fa uns dies",
 	"now": "ara mateix",
-	"inputTips": "Comproveu l'adreça de correu electrònic i l'enllaç del lloc web i torneu-ho a provar de nou."
+	"inputTips": "Comproveu l'adreça de correu electrònic i l'enllaç del lloc web i torneu-ho a provar de nou.",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "OK"
 }

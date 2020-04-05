@@ -18,5 +18,7 @@
 	"hours": "il y a des heures",
 	"days": "il y a quelques jours",
 	"now": "juste maintenant",
-	"inputTips": "Veuillez vérifier votre adresse e-mail et le lien du site Web et réessayer."
+	"inputTips": "Veuillez vérifier votre adresse e-mail et le lien du site Web et réessayer.",
+	"wait": "Attendez, le commentaire est en cours d'envoi",
+	"ok": "OK"
 }

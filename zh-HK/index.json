@@ -18,5 +18,7 @@
 	"hours": "小時前",
 	"days": "天前",
 	"now": "剛剛",
-	"inputTips": "您輸入的網址或郵箱格式不正確，請修正後提交！"
+	"inputTips": "您輸入的網址或郵箱格式不正確，請修正後提交！",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "確定"
 }
