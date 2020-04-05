@@ -18,5 +18,7 @@
 	"hours": "horas atrás",
 	"days": "hace días",
 	"now": "justo ahora",
-	"inputTips": "Verifique su dirección de correo electrónico y el enlace al sitio web e intente nuevamente."
+	"inputTips": "Verifique su dirección de correo electrónico y el enlace al sitio web e intente nuevamente.",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "OK"
 }
