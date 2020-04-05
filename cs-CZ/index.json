@@ -18,5 +18,7 @@
 	"hours": "před hodinami",
 	"days": "před dny",
 	"now": "právě teď",
-	"inputTips": "Zkontrolujte prosím svou e-mailovou adresu a odkaz na webovou stránku a zkuste to znovu."
+	"inputTips": "Zkontrolujte prosím svou e-mailovou adresu a odkaz na webovou stránku a zkuste to znovu.",
+	"wait": "Wait, the comment is being submitted",
+	"ok": "OK"
 }
